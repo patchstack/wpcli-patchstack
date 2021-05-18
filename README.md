@@ -16,12 +16,12 @@ Identify WordPress core, plugin and theme vulnerabilities with WP CLI.
 - Run this scan your WordPress installation. It returns all the pugins listed on the WordPress Installation.
 
 
-###Links
+### Links
 
 [Patchstack](https://patchstack.com/)
 
 [Patchstack API Documentation](https://www.notion.so/Database-API-Documentation-96dd848b35474ec28a5aba7bbf2b5c1f)
 
-###Contributors
+### Contributors
 - Patchstack Team (https://patchstack.com/) - Providing the API and Development Resources
 - Cloudways Team (https://cloudways.com/) - Providing the WP-CLI Integration & Comunity Resources
