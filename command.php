@@ -1,3 +1,4 @@
+
 <?php
 
 if (!class_exists('WP_CLI')) {
@@ -60,7 +61,7 @@ class patchstack_CLI {
 		if ($plugins) {
 			$body = [];
 			foreach ($plugins as $plugin) {
-				$body[] = ["name" => $plugin['name'], "version" => $plugin['version'], 'title' => $plugin['title'], 'description' => $plugin['description'], "type" => "plugin", "exists" => false];
+				$body[] = ["name" => urlencode($plugin['name']), "version" => $plugin['version'], 'title' => urlencode($plugin['title']), 'description' => urlencode($plugin['description']), "type" => "plugin", "exists" => false];
 			}
 		}
 
