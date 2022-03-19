@@ -1,5 +1,8 @@
-# WPCLI Patchstack Integration
-Identify WordPress core, plugin and theme vulnerabilities with WP CLI. CONTRIBUTE TO THE WEB SECURITY Become a member of patchstack Red Team(https://patchstack.com/red-team/)
+# WP-CLI Patchstack Integration
+
+Identify WordPress core, plugin and theme vulnerabilities with WP-CLI.
+Join the global cybercrime resistance to make open-source safe.
+[Report vulnerability](https://patchstack.com/alliance/)
 
 ### Features
 
